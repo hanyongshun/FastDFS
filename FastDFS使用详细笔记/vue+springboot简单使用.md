@@ -4,11 +4,11 @@
 
 ###### 安装淘宝镜像
 
-###### 全局安装`webpack cnpm install webpack -g`
+###### 全局安装webpack :`npm install webpack -g`
 
-###### 全局安装vue-cli `cnpm install -g vue-cli`
+###### 全局安装vue-cli :`npm install -g vue-cli`
 
-######使用webpack模板创建一个vue项目`vue init webpack project`
+###### 使用webpack模板创建一个vue项目`vue init webpack project`
 
 ###### 安装项目依赖`cd project`、`npm install`
 
